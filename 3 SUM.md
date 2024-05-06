@@ -105,4 +105,4 @@ The space complexity is O(1), as the algorithm uses constant extra space.
 ## Additional Resources
 
 - [Leetcode - 3Sum](https://leetcode.com/problems/3sum/description/)
-- [Aditya Verma's Tutorial on 3Sum Algorithm](https://youtu.be/TeegtfmEhTY?si=Kk_-7zjroXUaFWm7)
+- [Fraz's Tutorial on 3Sum Algorithm](https://youtu.be/TeegtfmEhTY?si=Kk_-7zjroXUaFWm7)
